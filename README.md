@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard project showcasing sales performan
 ```
 
 ├── superstore_sales.csv       # Cleaned dataset used for dashboard
-├── Results.pdf        # Exported PDF screenshot of the final dashboard
+├── Results.pdf                # Exported PDF screenshot of the final dashboard
 ├── insights.txt               # Key insights derived from the analysis
 └── README.md                  # Project overview and instructions
 
