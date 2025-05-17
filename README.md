@@ -8,6 +8,7 @@ This repository contains a Power BI project that visualizes sales data using a s
 |--------------------------------|-------------|
 | `Sales_Dashboard.pbix`         | Power BI file containing the dashboard. |
 | `Sales_Dashboard.mp4`          | Video demonstration of the dashboard in action. |
+| `dashboard_demo.gif`           | Animated preview of the dashboard. |
 | `SuperStore_Sales_Dataset.csv` | CSV format of the SuperStore dataset. |
 | `SuperStore Sales DataSet.xlsx`| Excel format of the dataset. |
 | `Insights.txt`                 | Key insights derived from the dashboard. |
@@ -40,8 +41,9 @@ The dataset used is the **SuperStore Sales** dataset which contains sales record
 
 ## 🎥 Dashboard Demo
 
-Watch the dashboard in action:  
-📽️ `Sales_Dashboard.mp4`
+Take a quick look at the interactive dashboard in action:
+
+![Sales Dashboard Demo](dashboard_demo.gif)
 
 ## 📚 Insights
 
