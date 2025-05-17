@@ -2,19 +2,6 @@
 
 This repository contains a Power BI dashboard project showcasing sales performance analysis using a Superstore dataset. The dashboard provides visual insights into sales trends by month and year, alongside product pricing.
 
----
-
-## 📁 Project Structure
-
-```
-
-📂 Task8_Simple_Sales_Dashboard/
-├── superstore\_sales.csv     # Cleaned dataset used for dashboard
-├── Results.pdf              # Exported PDF screenshot of the final dashboard
-├── insights.txt             # Key insights derived from the analysis
-└── README.md                # Project overview and instructions
-
-```
 
 ---
 
@@ -40,11 +27,5 @@ This repository contains a Power BI dashboard project showcasing sales performan
 
 ---
 
-## 📦 How to Use
-1. Clone this repository or download the files as a ZIP.
-2. Open `superstore_sales.csv` in Power BI.
-3. Use the dashboard visuals or modify them based on your needs.
-4. View `Results.pdf` for a quick look at the completed dashboard.
-5. Read `insights.txt` for a summary of business observations.
 
 
