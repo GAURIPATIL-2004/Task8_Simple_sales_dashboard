@@ -1,0 +1,19 @@
+📊 Key Insights from Sales Dashboard
+
+1. 📈 Monthly Sales Trend:
+   Sales steadily increased month over month, with noticeable growth in mid-year periods.
+   Peaks are observed around Q2 and Q4, possibly linked to seasonal demand cycles.
+
+2. 🧱 Yearly Price Distribution:
+   The average price remained stable across years, but total price values varied,
+   indicating changes in product volume or category focus each year.
+
+3. 🍩 Sales by Year (Donut Chart):
+   The highest sales were recorded in [insert year from your chart], indicating strong
+   performance compared to other years. This may reflect marketing efforts or product expansion.
+
+4. 🎛 Interactive Slicers:
+   Using the Sales and Price slicers, users can explore how high-price products impact
+   overall sales trends or isolate specific pricing brackets for detailed analysis.
+
+✅ These visuals help quickly identify patterns, evaluate performance over time, and guide strategic decisions.
